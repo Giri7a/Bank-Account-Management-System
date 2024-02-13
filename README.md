@@ -11,15 +11,15 @@ Welcome to the Java Account Management System repository! This project provides 
 * Thread-Safe Operations: Implements thread-safe operations to handle multiple transactions concurrently without data corruption.
 
 ## Technologies Used:
-^ Java: Primary programming language for development.
-^ JUnit (or custom testing framework): Facilitates the writing and execution of unit tests.
-^ ConcurrentHashMap: Ensures thread-safe access to account data structures.
-^ Build Automation (Maven or Gradle): Manages project dependencies and automates build processes.
+* Java: Primary programming language for development.
+* JUnit (or custom testing framework): Facilitates the writing and execution of unit tests.
+* ConcurrentHashMap: Ensures thread-safe access to account data structures.
+* Build Automation (Maven or Gradle): Manages project dependencies and automates build processes.
 
 ## Key Concepts:
-& Object-Oriented Programming (OOP): Organizes code into reusable and maintainable components.
-& Concurrency Control: Ensures data consistency and integrity in multi-threaded environments.
-& Unit Testing: Validates the correctness and reliability of individual components.
-& Synchronization: Coordinates access to shared resources to prevent race conditions and ensure thread safety.
+* Object-Oriented Programming (OOP): Organizes code into reusable and maintainable components.
+* Concurrency Control: Ensures data consistency and integrity in multi-threaded environments.
+* Unit Testing: Validates the correctness and reliability of individual components.
+* Synchronization: Coordinates access to shared resources to prevent race conditions and ensure thread safety.
 
 > Explore the codebase, contribute enhancements, and feel free to share feedback or suggestions for improvement!

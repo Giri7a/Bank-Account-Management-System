@@ -1,7 +1,7 @@
 # Bank-Account-Management-System
 > Experience streamlined account management with this Java-based system. From creating and managing accounts to facilitating secure transactions, it boasts a robust testing framework ensuring reliability and thread-safe operations, all encapsulated within a single package.
 
-> Welcome to the Java Account Management System repository! This project provides a robust solution for managing accounts, facilitating essential functionalities such as account creation, deposits, withdrawals, and secure fund transfers.
+Welcome to the Java Account Management System repository! This project provides a robust solution for managing accounts, facilitating essential functionalities such as account creation, deposits, withdrawals, and secure fund transfers.
 
 Features:
 Account Creation: Easily create new accounts with user-defined attributes.

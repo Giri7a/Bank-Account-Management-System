@@ -3,11 +3,11 @@
 
 Welcome to the Java Account Management System repository! This project provides a robust solution for managing accounts, facilitating essential functionalities such as account creation, deposits, withdrawals, and secure fund transfers.
 
-Features:
-Account Creation: Easily create new accounts with user-defined attributes.
-Transaction Management: Seamlessly deposit funds, withdraw amounts, and transfer funds between accounts.
-Concurrency Control: Utilizes synchronization mechanisms to ensure data integrity and consistency during concurrent transactions.
-Robust Testing Framework: Includes comprehensive unit tests to validate functionality and reliability under various scenarios.
+## Features:
+### Account Creation: Easily create new accounts with user-defined attributes.
+### Transaction Management: Seamlessly deposit funds, withdraw amounts, and transfer funds between accounts.
+### Concurrency Control: Utilizes synchronization mechanisms to ensure data integrity and consistency during concurrent transactions.
+### Robust Testing Framework: Includes comprehensive unit tests to validate functionality and reliability under various scenarios.
 Thread-Safe Operations: Implements thread-safe operations to handle multiple transactions concurrently without data corruption.
 Technologies Used:
 Java: Primary programming language for development.
